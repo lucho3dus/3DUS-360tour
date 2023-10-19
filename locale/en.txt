@@ -1,0 +1,16 @@
+#: locale=en
+
+## Media
+
+### Title
+panorama_5AC144F9_4970_AE6D_4198_A8D20EE8B278.label = Sheraton Augusta-King 360_1
+panorama_5B2AC9E9_4970_A66D_41D0_5E7D0B675895.label = Sheraton Augusta-King 360_2
+panorama_5B2ADDD5_4970_BEA5_41BE_5E9C6F7808B7.label = Sheraton Augusta-King 360_3
+panorama_5B2B11CD_4970_A6A5_41B1_7F4D87710A6C.label = Sheraton Augusta-King 360_4
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Sheraton Augusta King Room 

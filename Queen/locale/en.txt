@@ -1,0 +1,16 @@
+#: locale=en
+
+## Media
+
+### Title
+panorama_0C343209_4950_E5AD_41CC_7ED2EE551BAA.label = Sheraton Augusta-Queen 360_1
+panorama_0B99586E_4950_E667_41BE_68CCA223CA56.label = Sheraton Augusta-Queen 360_2
+panorama_0B87BC9E_4950_9EA7_41B9_9AFB9439C990.label = Sheraton Augusta-Queen 360_3
+panorama_0B8EE092_4950_A6BF_41C6_CD5EC8BCEC88.label = Sheraton Augusta-Queen 360_4
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Sheraton Augusta Queen Room
